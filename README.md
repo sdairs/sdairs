@@ -4,6 +4,10 @@ I've spent the past 10 years working in Cyber Security, Big Data & Realtime/Stre
 
 In June 2022, I joined [Tinybird](https://tinybird.co) where I'm leading the Developer Relations team.
 
+I don't consider myself a professional software engineer, although I spend a lot of time writing code. My most comfortable language is Python, though I am comfortable writing in Java/Scala/JavaScript/TypeScript/Groovy/Go/Rust/C/C#.
+
+You'll find a lot of example & docs repos on my GitHub.
+
 ## Links
 - [Here's my personal blog](https://alasdairb.com)
 - [Here's where I write about data (DataXP)](https://dataxp.io)
