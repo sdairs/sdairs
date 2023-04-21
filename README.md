@@ -9,7 +9,6 @@ I don't consider myself a professional software engineer, although I spend a lot
 You'll find a lot of example & docs repos on my GitHub.
 
 ## Links
-- [Here's my personal blog](https://alasdairb.com)
-- [Here's where I write about data (DataXP)](https://dataxp.io)
+- [Blog](https://alasdairb.com)
 - [Twitter](https://twitter.com/sdairs)
 - [LinkedIn](https://www.linkedin.com/in/alasdair-brown-3b326164/)
